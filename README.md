@@ -28,3 +28,7 @@ No build step or package installation is required. The page uses Google Fonts fr
 ## Before publishing
 
 Please verify all branch locations and map links, prices, menu descriptions, contact links, and marketing claims with the brand owner. The page preserves the information in the supplied HTML and does not independently verify it. Update the relevant text in `index.html` before publishing if anything has changed.
+
+## Drink photo matching
+
+Drink photos were matched visually against the supplied photographed menu. Some visually similar drinks (especially layered coffees and cream/slush drinks) may need a final human check before public launch. The menu prices and product names were not changed.
